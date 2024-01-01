@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a27fe11-ac65-48ea-ad27-25e839fca037" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_21118080023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Friday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ICoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IConcert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IFitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IHobbies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IRoutines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISocialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saturday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sunday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thursday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tuesday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wednesday.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2aJ6swFDhBs7xX6qJQmx01eLFHw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karak/IdeaProjects/hw_21118080023/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/karak/IdeaProjects/hw_21118080023/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karak\IdeaProjects\hw_21118080023\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="hw_21118080023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a27fe11-ac65-48ea-ad27-25e839fca037" name="Changes" comment="" />
+      <created>1704024547663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704024547663</updated>
+    </task>
+    <servers />
+  </component>
+</project>
